@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "A Little Rant About AI"
+date:   2025-06-18 18:52:16 -0400
+categories: AI
+
+---
+
+I never really understood why AI is the big thing until recently, it makes a lot of money because it pleases the stockholders which is why valve/steam and other private companies do not do all of the AI stuff.
+
+## What I dislike about AI
+
+AI itself is interesting, and can do cool things like play doom. The thing I dislike about AI, is how its used by companies, its forced upon us, being an end user from a company like microsoft and using modern Windows (I use gentoo now) means you are forced to use copilot. The final thing that I dislike about AI is when its put into things that its not needed to be in, for example a toaster, its not needed, AI is not needed for a toaster.
+
+### What is forced AI?
+
+Forced AI is in my option AI that is enabled by default, and is usually hard to disable but being hard to disable is **NOT** a requirement.
