@@ -3,8 +3,9 @@ layout: post
 title:  "A Little Rant About AI"
 date:   2025-06-18 18:52:16 -0400
 categories: AI
-
 ---
+
+I use gentoo for a reason now.
 
 I never really understood why AI is the big thing until recently, it makes a lot of money because it pleases the stockholders which is why valve/steam and other private companies do not do all of the AI stuff.
 
